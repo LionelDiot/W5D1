@@ -14,6 +14,30 @@ h1, h2, h3 {
   color: #5a5a5a ;
 }
 
+.btn-outline-primary {
+  color: #2683e1 ;
+}
+.btn-outline-warning {
+  color: #f2a228 ;
+}
+.btn-outline-danger {
+  color : #f9563f;
+}
+.btn-outline-success {
+  color: #9ae68f ;
+}
+.btn-primary {
+  background-color: #2683e1 ;
+}
+.btn-warning {
+  background-color: #f2a228 ;
+}
+.btn-danger {
+  background-color : #f9563f;
+}
+.btn-success {
+  background-color: #9ae68f ;
+}
 /*
  ==COLORS== 
 primary #2683e1
