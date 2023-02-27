@@ -2,7 +2,7 @@
 body {
   font-family: 'Poppins', sans-serif;
   background-color: #f0f0f0; 
-  color : #b2b2b2 ;
+  color : #939393 ;
 }
 
 .container {
@@ -11,7 +11,7 @@ body {
 
 h1, h2, h3 {
   font-family: 'Gloock', serif;
-  color: #7d7d7d ;
+  color: #5a5a5a ;
 }
 
 /*
@@ -19,8 +19,8 @@ h1, h2, h3 {
 primary #2683e1
 secondary #9596ef
 lgrey #f0f0f0
-mgrey #b2b2b2
-hgrey #7d7d7d 
+mgrey #939393
+hgrey #5a5a5a
 warning #f2a228
 danger #f9563f
 success #9ae68f
