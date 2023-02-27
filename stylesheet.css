@@ -1,9 +1,23 @@
 
 body {
   font-family: 'Poppins', sans-serif;
+  color: #7d7d7d; 
 }
 
 h1, h2, h3 {
   font-family: 'Gloock', serif;
   border : solid red 2px ;
+  color: #b2b2b2;
 }
+
+/* primary #2683e1
+secondary #9596ef
+lgrey #f0f0f0
+mgrey #b2b2b2
+hgrey #7d7d7d 
+warning #f2a228
+danger #f9563f
+success #9ae68f
+info #8fb7e6
+
+*/
